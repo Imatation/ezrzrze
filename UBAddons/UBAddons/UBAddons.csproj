@@ -119,14 +119,6 @@
     <Compile Include="Champions\Annie\Modes\LaneClear.cs" />
     <Compile Include="Champions\Annie\Modes\LastHit.cs" />
     <Compile Include="Champions\Annie\Modes\PermaActive.cs" />
-    <Compile Include="Champions\Azir\Azir.cs" />
-    <Compile Include="Champions\Azir\Modes\Combo.cs" />
-    <Compile Include="Champions\Azir\Modes\Flee.cs" />
-    <Compile Include="Champions\Azir\Modes\Harass.cs" />
-    <Compile Include="Champions\Azir\Modes\JungleClear.cs" />
-    <Compile Include="Champions\Azir\Modes\LaneClear.cs" />
-    <Compile Include="Champions\Azir\Modes\LastHit.cs" />
-    <Compile Include="Champions\Azir\Modes\PermaActive.cs" />
     <Compile Include="Champions\Brand\Brand.cs" />
     <Compile Include="Champions\Brand\Modes\Combo.cs" />
     <Compile Include="Champions\Brand\Modes\Flee.cs" />
